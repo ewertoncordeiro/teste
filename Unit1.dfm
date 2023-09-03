@@ -20,4 +20,11 @@ object Form1: TForm1
     Height = 13
     Caption = 'testets'
   end
+  object Label2: TLabel
+    Left = 136
+    Top = 256
+    Width = 104
+    Height = 13
+    Caption = 'adicionado novo label'
+  end
 end
